@@ -163,7 +163,3 @@ function IBDateFormatDateDot(date)
 {
     return IBDateFormatDateByFormat(date, "dd.MM.yyyy");
 }
-
-function IBDateReturn(returnDate) {
-	return returnDate;
-}
