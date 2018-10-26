@@ -167,3 +167,7 @@ function IBDateFormatDateDot(date)
 function IBDateReturn(returnDate) {
 	return returnDate;
 }
+
+function IBDateReturn2(returnDate) {
+	return returnDate;
+}
